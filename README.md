@@ -5,7 +5,7 @@ This project is a simple implementation of the classic Pong game using Python an
 ## Concepts Learned
 
 ### 1. Turtle Graphics
-The `turtle` module in Python is a popular way to introduce programming to kids. It provides a visual way to understand the concepts of programming and graphics. In this project, the `turtle` module is used to create the paddles, ball, and scoreboard.
+The `turtle` module in Python provides a visual way to understand the concepts of programming and graphics. In this project, the `turtle` module is used to create the paddles, ball, and scoreboard.
 
 ### 2. Object-Oriented Programming (OOP)
 OOP is a programming paradigm based on the concept of "objects", which are data structures that contain data and methods. This project involves the creation of multiple classes:
